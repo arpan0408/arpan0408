@@ -1,8 +1,14 @@
-<h2 align="left">Hi 👋! My name is Arpan 😎</h2>
+<h2 align="left">Hi 👋! My name is Arpan😎🎧</h2>
 
 ###
 
-<img align="right" height="155" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpan0408&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="153" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif"  />
 
 ###
 
@@ -23,9 +29,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/arpan0408/arpan0408/output/snake.svg" alt="Snake animation" />
 
 ###
