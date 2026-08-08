@@ -28,14 +28,14 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpan0408&show_icons=true&theme=tokyonight" width="420" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpan0408&layout=compact&theme=tokyonight" width="320" />
 </p>
-
 ---
+-->
 
 ## 🏆 LeetCode Stats
 <p align="center">
