@@ -3,7 +3,11 @@
   <img src="assets/banner.png" width="850" alt="Arpan GitHub Banner" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Arpan</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Arpan+Kumar+👋;Software+Developer;Problem+Solver" alt="Typing SVG" />
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arpan0408&color=blue&style=flat" alt="Profile Views" />
